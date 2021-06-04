@@ -1,0 +1,21 @@
+{
+  "name": "requestsocket",
+  "version": "1.0.0",
+  "description": "Lightweight websocket framework that works with req/res paradigm",
+  "main": "./lib/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BJ Beecher",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.6"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.0",
+    "@types/ws": "^7.4.4",
+    "typescript": "^4.3.2"
+  }
+}
