@@ -1,0 +1,1 @@
+{"version":3,"file":"socket_request.js","sourceRoot":"","sources":["../src/socket_request.ts"],"names":[],"mappings":";AACA,MAAM,aAAa;IAKf,YAAY,EAAU,EAAE,OAAgB,EAAE,OAAgB;QACtD,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;IAC3B,CAAC;CACJ;AAED,iBAAS,aAAa,CAAC"}

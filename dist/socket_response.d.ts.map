@@ -1,0 +1,1 @@
+{"version":3,"file":"socket_response.d.ts","sourceRoot":"","sources":["../src/socket_response.ts"],"names":[],"mappings":"AAAA,OAAO,MAAM,MAAM,UAAU,CAAC;AAE9B,cAAM,cAAc;IAChB,SAAS,EAAE,MAAM,CAAA;IACjB,MAAM,EAAE,MAAM,CAAA;gBAEF,SAAS,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM;IAK7C,IAAI,CAAC,IAAI,EAAE,MAAM;CAQpB;AAED,SAAS,cAAc,CAAC"}
